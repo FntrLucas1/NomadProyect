@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "emmet.includeLanguages": {
+    "php": "html"
+  },
+  "files.autoSave": "afterDelay",
+  "php.validate.executablePath": "C:/xampp/php/php.exe",
+  "workbench.colorTheme": "Default Dark+",
+  "editor.tabSize": 2
+}
